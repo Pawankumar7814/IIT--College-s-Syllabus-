@@ -1,0 +1,6 @@
+1) Audio tag
+2) Video tag
+3) Header tag 
+4) footer tag
+5) Section tag
+6) Canvas tag

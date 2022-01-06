@@ -1,0 +1,28 @@
+1) paragraph tag = <p></p>
+    Define: HTML paragraph or HTML p tag used to define a paragraph in a webpage.
+
+2) horizontal rules = <hr>
+    Define: HTML <hr> tag is used to specify a paragraph-level thematic break in HTML document. It is used when you abruptly change your topic in your HTML document. It draw a horizontal line between them. It is also called a Horizontal Rule in HTML.
+
+3) heading style = h1, h2, h3, h4, h5, h6
+    Define: 
+
+4) line break = <br>
+
+5) background and bgcolor attributes 
+
+6) <b>              This is a physical tag, which is used to bold the text written between it.
+7) <strong>	        This is a logical tag, which tells the browser that the text is important.
+8) <i>	            This is a physical tag which is used to make text italic.
+9) <em>	            This is a logical tag which is used to display content in italic.
+10) <mark>  	    This tag is used to highlight text.
+11) <u> 	        This tag is used to underline text written between it. 
+12) <strike>	    This tag is used to draw a strikethrough on a section of text. (Not supported in HTML5)
+13) <sup>   	    It displays the content slightly above the normal line.
+14) <sub>   	    It displays the content slightly below the normal line.
+15) <del>   	    This tag is used to display the deleted content.
+16) <ins>   	    This tag displays the content which is added
+17) <big>   	    This tag is used to increase the font size by one conventional unit.
+18) <small> 	    This tag is used to decrease the font size by one unit from base font size.
+
+19)  
